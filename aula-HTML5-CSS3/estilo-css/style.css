@@ -1,0 +1,29 @@
+body{
+	background:rgb(222,184,135);
+	color:rgb(255,90,50);
+	margin-left: 100px;
+	margin-right: 200px;
+	margin-bottom: 300px;
+	margin-top: 50px;
+}
+h2{
+	font-family:arial;
+	color:yellow;
+}
+h1{
+	font-family: Tai Le;
+}
+p{
+	font-size: 20px;
+}
+header{
+	margin-top: 100px;
+}
+.img_padrao{
+	margin-bottom: 50px;
+	width: 350px 
+}
+img{
+	margin-bottom: 10px;
+	width: 200px
+}
